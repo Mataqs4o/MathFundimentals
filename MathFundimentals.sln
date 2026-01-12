@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFundimentals", "MathFundimentals\MathFundimentals.csproj", "{94757A25-46B0-4F7C-A1F4-8A50505B384B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad2", "ConsoleApp1\Zad2.csproj", "{C2A45B93-0EF1-4157-8090-25ED9A481004}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srednoaritmetichno,Moda,Median", "ConsoleApp1\Srednoaritmetichno,Moda,Median.csproj", "{C2A45B93-0EF1-4157-8090-25ED9A481004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDeterminant", "MatrixDeterminant\MatrixDeterminant.csproj", "{EDFC0E3A-F0A5-4E01-80FF-881D6E92A85E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coefficents of polinom", "Coefficents of polinom\Coefficents of polinom.csproj", "{D3BBF96F-732E-433C-861B-A42800C063C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{C2A45B93-0EF1-4157-8090-25ED9A481004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2A45B93-0EF1-4157-8090-25ED9A481004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2A45B93-0EF1-4157-8090-25ED9A481004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFC0E3A-F0A5-4E01-80FF-881D6E92A85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFC0E3A-F0A5-4E01-80FF-881D6E92A85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFC0E3A-F0A5-4E01-80FF-881D6E92A85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFC0E3A-F0A5-4E01-80FF-881D6E92A85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3BBF96F-732E-433C-861B-A42800C063C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BBF96F-732E-433C-861B-A42800C063C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BBF96F-732E-433C-861B-A42800C063C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BBF96F-732E-433C-861B-A42800C063C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
